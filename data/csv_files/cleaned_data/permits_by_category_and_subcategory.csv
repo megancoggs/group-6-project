@@ -1,0 +1,40 @@
+Category,SubCategoryName,EventID
+Commercial,Commercial,4232
+Commercial,Industrial/Corporate,311
+Commercial,Not Applicable,2
+Commercial,PSA,129
+Commercial,Promo,599
+Commercial,Short,2
+Commercial,Trailers,3
+Documentary,Not Applicable,282
+Film,Feature,9095
+Film,Not Applicable,1036
+Film,Short,724
+Music Video,Independent Artist,37
+Music Video,Not Applicable,25
+Music Video,Signed Artist,159
+Red Carpet/Premiere,TV Premiere,1
+Still Photography,Commercial,2
+Still Photography,Not Applicable,4009
+Student,Not Applicable,122
+Student,Student Film,304
+Television,Cable-daily,227
+Television,Cable-episodic,7215
+Television,Cable-other,762
+Television,Children,81
+Television,Daytime soap,20
+Television,Episodic series,21439
+Television,Game show,101
+Television,Made for TV/mini-series,649
+Television,Magazine Show,17
+Television,Morning Show,612
+Television,News,1519
+Television,Not Applicable,702
+Television,Pilot,1689
+Television,Reality,646
+Television,Special/Awards Show,396
+Television,Syndication/First Run,44
+Television,Talk Show,331
+Television,Variety,352
+Theater,Theater,6749
+WEB,Not Applicable,2437
